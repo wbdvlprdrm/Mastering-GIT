@@ -3,3 +3,5 @@ Esta es la historia de Ramiro Henriquez
 Ramiro Tiene 34 años y nacio en El Salvador, hoy hablaremos de su historia.
 
 no parece ser muy alto
+
+Actualmente estudia para ser desarrollador front End
